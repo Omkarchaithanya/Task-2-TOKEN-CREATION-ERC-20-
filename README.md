@@ -1,5 +1,16 @@
 # ERC-20 Token Creation (Sepolia Testnet)
+## Internship Details
 
+| Field | Details |
+|-------|---------|
+| **Company** | CODTECH IT SOLUTIONS PVT.LTD |
+| **Name** | OMKAR CHAITHANYA R |
+| **Intern ID** | CTIS4640 |
+| **Domain** | Blockchain Technology |
+| **Batch Duration** | 12 Weeks |
+| **Mentor** | Neela Santhosh Kumar |
+
+---
 This project creates and deploys a custom ERC-20 token using Solidity and Hardhat.
 
 ## 1) Smart Contract
